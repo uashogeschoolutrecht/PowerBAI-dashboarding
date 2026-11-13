@@ -1,0 +1,58 @@
+DATAVISUALISATIE CHALLENGE 2026
+Thema: Streamingdiensten
+
+OPDRACHT
+Bundel je verbeeldingskracht en analytisch vermogen om een interactief dashboard of visueel beeld te maken waarmee gebruikers het aanbod van één of meer streamingdiensten kunnen verkennen. De challenge omvat zowel datavisualisatie als data-analyse.
+
+DOEL EN DEELNAME
+De challenge is bedoeld voor iedereen die graag dashboards bouwt en zich daarin verder wil ontwikkelen. Het doel is je vaardigheden te oefenen en te verbeteren, van anderen te leren en anderen mogelijk te inspireren. Meedoen is belangrijker dan winnen, ook al gaat het om de Olympische Spelen.
+
+Zie deelname als een mooie kans om feedback te krijgen. Je inzending hoeft geen fancy rapport te zijn of volledig af.
+
+BEOORDELINGSCATEGORIEËN
+Je kunt aan beide categorieën deelnemen of je op één categorie richten.
+
+1. Data-analyse
+   De jury kijkt onder andere naar:
+   - de complexiteit en kwaliteit van het datamodel;
+   - de robuustheid van de oplossing;
+   - het gebruik van externe databronnen;
+   - hoe actueel en toekomstbestendig de oplossing blijft.
+
+2. Datavisualisatie
+   De nadruk ligt op:
+   - een duidelijk doel en een goed gedefinieerde doelgroep;
+   - aantrekkelijke vormgeving en gebruiksvriendelijkheid;
+   - interactiviteit en de algehele gebruikerservaring van het dashboard.
+
+DATASET
+De dataset is vanaf dinsdag 6 oktober 2026 om 09:30 uur beschikbaar via de Teams-site “Power BI Community”, in het kanaal “Power BI Datavisualisatie Challenge”.
+
+De dataset is gratis en voor iedereen beschikbaar om mee te leren. Deze bestaat uit drie Excel (CSV)-bestanden:
+- Netflix Movies and TV Shows (bron: Netflix Movies and TV Shows)
+- Disney-movies-and-tv-shows (bron: Disney+ Movies and TV Shows)
+- Amazon-prime-movies-and-tv-shows (bron: Amazon Prime Movies and TV Shows)
+
+De dataset biedt een solide basis voor zowel data-analyse als datavisualisatie. Voor data-analyse mag je aanvullende databronnen gebruiken, bijvoorbeeld gegevens over Oscars en Emmy Awards of data van andere streamingplatformen, om analyses te verrijken en extra inzichten te verkrijgen.
+
+PLANNING
+- Start en beschikbaarheid dataset: dinsdag 6 oktober 2026, 09:30 uur.
+- Challengeperiode: 6 oktober tot en met 26 november 2026 (7 weken).
+- Uiterste inleverdatum: donderdag 26 november 2026, 17:00 uur.
+- Eindsessie en live jurybeoordeling: dinsdag 1 december 2026, 12:30–17:00 uur.
+- Prijsuitreiking: aan het einde van de eindsessie op dinsdag 1 december.
+
+Tijdens de challenge is er een hulplijn via Teams voor vragen over de challenge, Power BI, DAX-formules en problemen met het inladen van data. Plaats hiervoor een bericht in het kanaal “Power BI Datavisualisatie Challenge” op de Teams-site “Power BI Community”. Daarmee schakel je de hulplijn in. Alle deelnemers kunnen de vragen en antwoorden meelezen.
+
+INZENDING
+Het eindresultaat moet in Power BI worden opgeleverd. Het hoeft geen HU-dashboard te zijn; geef je ontwerp de ruimte.
+
+Lever je inzending uiterlijk donderdag 26 november 2026 om 17:00 uur als volgt in:
+1. Plaats op de Teams-site “Power BI Community”, in de tab “berichten” van het kanaal “Power BI Datavisualisatie Challenge”, een bericht met een screenshot van je dashboard. Vermeld voor welke categorie(ën) je iets inlevert.
+2. Publiceer de desktopversie van je dashboard naar de Power BI-werkruimte “Challenge Datavisualisatie”.
+3. Lever ook het .pbix-bestand aan via het kanaal.
+
+Verwerk je naam in de titel van je dashboard. Inzendingen na de deadline worden niet door de jury beoordeeld.
+
+JURY EN PRIJS
+Tijdens de eindsessie beoordeelt een vooraf samengestelde jury alle tijdig ingeleverde dashboards live. Aan het einde van de sessie is de prijsuitreiking. De inzender met de meeste stemmen van de jury wint de Streamingdiensten Datavisualisatie Challenge en ontvangt een leuke prijs.
